@@ -9,9 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@aws-amplify/pubsub": "^5.5.5",
+    "@aws-sdk/client-iot-data-plane": "^3.438.0",
+    "aws-amplify": "^5.3.11",
+    "aws-iot-device-sdk": "^2.2.13",
+    "aws-sdk": "^2.1483.0",
+    "next": "14.0.0",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.0.0"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "eslint": "^7.32.0",

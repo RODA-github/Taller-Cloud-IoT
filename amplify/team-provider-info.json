@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tallercloudiot-dev-05219-authRole",
+      "UnauthRoleArn": "arn:aws:iam::776516132940:role/amplify-tallercloudiot-dev-05219-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::776516132940:role/amplify-tallercloudiot-dev-05219-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-tallercloudiot-dev-05219-deployment",
+      "UnauthRoleName": "amplify-tallercloudiot-dev-05219-unauthRole",
+      "StackName": "amplify-tallercloudiot-dev-05219",
+      "StackId": "arn:aws:cloudformation:us-east-2:776516132940:stack/amplify-tallercloudiot-dev-05219/7e5fc580-76e8-11ee-b545-02fa956cca73",
+      "AmplifyAppId": "db1xrq8pnb960"
+    }
+  }
+}
